@@ -1,0 +1,2 @@
+# Ignore the esbuild binary because we install a platform-specific one using the install-esbuild.sh script
+esbuild
